@@ -1,5 +1,5 @@
 # python-api-challenge
-### Weather analysis of over 500 cities of varying distances from the equator
+## Weather analysis of over 500 cities of varying distances from the equator
 Created plots to showcase the relationship between weather variables and Latitude. Computed Linear Regression for each relationship.
 
 Used weather data skills to plan a perfect vacation
